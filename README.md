@@ -5,6 +5,7 @@ Data Cleaning and Preparation Using Microsoft Excel
 This project focuses on cleaning, transforming, and preparing a real-world dataset using Microsoft Excel. The main objective is to improve data quality by identifying and handling missing values, correcting inconsistencies, removing duplicate records, and applying appropriate formatting techniques.
 
 🎯 Objectives
+
 Identify and handle missing or blank values.
 Correct inconsistent data formats and entries.
 Remove duplicate records to maintain data accuracy.
@@ -12,8 +13,10 @@ Restructure and organize columns for better readability.
 Standardize text fields and data formats.
 Apply conditional formatting to highlight important information.
 Prepare a clean and structured dataset for further analysis.
+
 🛠️ Tools Used
 Microsoft Excel
+
 Functions Used
 
 Excel Data Cleaning Tools
@@ -22,6 +25,7 @@ Sort and Filter
 Remove Duplicates
 Find and Replace
 Text to Columns
+
 🧹 Data Cleaning and Preparation Tasks
 1. Handling Missing Values
 
