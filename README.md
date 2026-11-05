@@ -1,4 +1,5 @@
 Data Cleaning and Preparation Using Microsoft Excel
+
 📌 Project Overview
 
 This project focuses on cleaning, transforming, and preparing a real-world dataset using Microsoft Excel. The main objective is to improve data quality by identifying and handling missing values, correcting inconsistencies, removing duplicate records, and applying appropriate formatting techniques.
